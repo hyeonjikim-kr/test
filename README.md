@@ -23,7 +23,7 @@ int main()
 print("Hello World")
 
 +
-+ | C++11 | | C++14 | | C++17 || C++20 |
-+ | --- | | auto1 | | auto2 | | auto3|
++ |C++11||C++14|| C++17 || C++20 |
++ | --- || auto1 || auto2 || auto3|
 
 [IT Computer Hompage](http://it.jbnu.ac.kr)
