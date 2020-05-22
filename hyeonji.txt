@@ -1,0 +1,22 @@
+Hello hello
+Hello Hello
+On branch now
+Untracked files:
+	.bash_history
+	.bash_logout
+	.bashrc
+	.cache/
+	.gitconfig
+	.lesshst
+	.local/
+	.profile
+	.ssh/
+	.vimrc
+	Project_CG/
+	example/
+	test/
+
+nothing added to commit but untracked files present
+Hello Hello
+hyeonji testing
+Hello Hello
